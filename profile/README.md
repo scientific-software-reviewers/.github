@@ -1,4 +1,18 @@
-## Welcome to Scientific Softawre Reviewers 👋
+## Welcome to Scientific Software Reviewers 👋
+
+This work is part of a Better Scientific Software [BSSw](https://bssw.io/) Fellowship 2023-2024.
+
+Code Review Website: 
+
+* available at [code-review.org](https://code-review.org/) with the source code available on [GitHub](https://github.com/scientific-software-reviewers/scientific-software-reviewers.github.io).
+
+Code Review Tutorial Exercises:
+
+* Read the [Plan](https://github.com/scientific-software-reviewers/Plan) for the tutorial exercises.
+
+* GitHub repository for the [Code Review Tutorial Exercises](https://github.com/scientific-software-reviewers/tutorial).
+
+* [proto](https://github.com/scientific-software-reviewers/proto) is a respository for playing with GitHub actions and workflows.
 
 
 
