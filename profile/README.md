@@ -12,8 +12,9 @@ Code Review Tutorial Exercises:
 
 * GitHub repository for the [Code Review Tutorial Exercises](https://github.com/scientific-software-reviewers/tutorial).
 
-* [proto](https://github.com/scientific-software-reviewers/proto) is a respository for playing with GitHub actions and workflows.
+* GitHub repository for the take-a-look version of the Code Review Tutorial Exercises: [take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look).
 
+* [proto](https://github.com/scientific-software-reviewers/proto) is a respository for playing with GitHub actions and workflows.
 
 
 This work was supported by the Better Scientific Software Fellowship
